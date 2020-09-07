@@ -45,3 +45,4 @@
  - Where to get it?<br>
  https://discordapp.com/oauth2/authorize?client_id=404762043527462922&scope=bot&permissions=8
 
+[![Run on Repl.it](https://repl.it/badge/github/d4rckh/BotWorld)](https://repl.it/github/d4rckh/BotWorld)
